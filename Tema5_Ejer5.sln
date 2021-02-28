@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema5_Ejer5", "Tema5_Ejer5\Tema5_Ejer5.csproj", "{B9C84314-85D6-454C-B403-C8FD4D48DBEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba", "Prueba\Prueba.csproj", "{DD73BC7C-CF91-422B-AEE1-74C6C25AF87B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9C84314-85D6-454C-B403-C8FD4D48DBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C84314-85D6-454C-B403-C8FD4D48DBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C84314-85D6-454C-B403-C8FD4D48DBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C84314-85D6-454C-B403-C8FD4D48DBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD73BC7C-CF91-422B-AEE1-74C6C25AF87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD73BC7C-CF91-422B-AEE1-74C6C25AF87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD73BC7C-CF91-422B-AEE1-74C6C25AF87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD73BC7C-CF91-422B-AEE1-74C6C25AF87B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1C4BA5C-A55E-4F2F-9988-19A9FA964AE4}
+	EndGlobalSection
+EndGlobal
